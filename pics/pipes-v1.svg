@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1500" height="1500" viewBox="-750.0 -750.0 1500 1500" displayInline="False">
+<defs>
+<g id="l_corner" fill="white">
+<path d="M-30.0,40.00000000000001 A70,70,0,0,1,39.999999999999986,-30.0" stroke="black" stroke-width="1" fill="white" />
+<path d="M40,-30 L-30,40 L30,40 L40,30" fill="white" stroke="none" mask="False" />
+<circle cx="40" cy="40" r="10" fill="white" />
+<path d="M30.0,40.0 A10,10,0,0,1,40.0,30.0" stroke="black" stroke-width="1" fill="none" />
+<rect x="40" y="-35" width="5" height="70" fill="white" stroke="black" stroke-width="1" />
+<rect x="-35" y="40" width="70" height="5" fill="white" stroke="black" stroke-width="1" />
+<rect x="46" y="-29" width="5" height="58" fill="white" stroke="none" />
+<path d="M45,30 L50,30" fill="none" stroke="black" stroke-width="1" />
+<path d="M45,-30 L50,-30" fill="none" stroke="black" stroke-width="1" />
+<rect x="-29" y="46" width="58" height="5" fill="white" stroke="none" />
+<path d="M30,45 L30,50" fill="none" stroke="black" stroke-width="1" />
+<path d="M-30,45 L-30,50" fill="none" stroke="black" stroke-width="1" />
+</g>
+<g id="l_tube" fill="none">
+<rect x="-30" y="-50" width="60" height="100" fill="white" stroke="none" />
+<path d="M-30,-50 L-30,50" fill="none" stroke="black" stroke-width="1" />
+<path d="M30,-50 L30,50" fill="none" stroke="black" stroke-width="1" />
+</g>
+</defs>
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-500,-600)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-500,-500) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-500,-400)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-500,-300) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-500,-200)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-500,-100) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-500,0) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-500,100)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-500,200) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-500,300)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-500,400) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-500,500) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-500,600) rotate(270)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-400,-600) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-400,-500) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-400,-400) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-400,-400) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-400,-300) rotate(180)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-400,-200) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-400,-100)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-400,0) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-400,0) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-400,100) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-400,200) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-400,300) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-400,400)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-400,500) rotate(270)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-400,600) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-300,-600) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-300,-500) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-300,-400) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-300,-400) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-300,-300) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-300,-200) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-300,-100) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-300,-100) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-300,0) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-300,100)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-300,200) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-300,300) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-300,400) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-300,400) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-300,500) rotate(180)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-300,600) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,-600)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,-500) rotate(270)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-200,-400) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,-300) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,-200) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,-100) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,0) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,100) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,200) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,300)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,400) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,500)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-200,600) rotate(180)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-100,-600) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-100,-500) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-100,-400) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-100,-300)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-100,-200) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-100,-100)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-100,0) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-100,0) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-100,100) rotate(270)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(-100,200) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-100,300) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-100,400) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-100,500) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(-100,600) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,-600) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,-500) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,-400)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,-300) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,-200)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,-100) rotate(180)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(0,0) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,100) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,200) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,300)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,400) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,500)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(0,600) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(100,-600)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(100,-500) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(100,-400) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(100,-300) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(100,-200) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(100,-100) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(100,0) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(100,100)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(100,200) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(100,300) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(100,400)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(100,500) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(100,500) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(100,600) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(200,-600) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(200,-500) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(200,-400)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(200,-300) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(200,-300) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(200,-200) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(200,-100)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(200,0) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(200,100) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(200,200) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(200,300) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(200,400) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(200,500) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(200,500) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(200,600) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(300,-600)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(300,-500) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(300,-500) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(300,-400) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(300,-400) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(300,-300) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(300,-200) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(300,-100) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(300,0) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(300,100) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(300,200)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(300,300) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(300,400)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(300,500) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(300,500) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(300,600) rotate(270)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(400,-600) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(400,-500) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(400,-400) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(400,-300) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(400,-200) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(400,-100) rotate(0)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(400,0) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(400,100) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(400,200) rotate(90)" />
+<use xlink:href="#l_tube" x="0" y="0" transform="translate(400,300) rotate(0)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(400,400) rotate(180)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(400,500) rotate(90)" />
+<use xlink:href="#l_corner" x="0" y="0" transform="translate(400,600) rotate(180)" />
+</svg>
